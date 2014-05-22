@@ -6,7 +6,7 @@
     <artifactId>smt</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>md</name>
+    <name>smt</name>
     <properties>
         <maven.compiler.source>1.5</maven.compiler.source>
         <maven.compiler.target>1.5</maven.compiler.target>
